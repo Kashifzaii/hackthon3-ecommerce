@@ -17,7 +17,7 @@ export default function Header() {
   {/* <!-- Main Navbar --> */}
   <div className="flex justify-between bg-white py-4 px-8">
     {/* <!-- Logo --> */}
-    <Link href="/Home" className="text-2xl font-bold text-gray-900">Avion</Link>
+    <Link href="/" className="text-2xl font-bold text-gray-900">Avion</Link>
 
     {/* <!-- Navigation Links --> */}
     <nav className="hidden md:flex space-x-4 text-gray-600 item-end text-right">
